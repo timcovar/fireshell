@@ -1,0 +1,32 @@
+.nav {
+  ul {
+    list-style:none;
+    li {
+      a {
+          font-size: 3em;
+          text-decoration: none;
+          span {
+            padding-right: 0.5em;
+            border-right: medium solid black;
+          }
+          &:hover {
+            color: black;
+            text-decoration: none;
+          }
+          &:visited {
+            color: black;
+            text-decoration: none;
+          }
+      }
+    }
+  }
+  .search {
+    input {
+        padding: 3px 10px 3px 5px;
+        font-size: 1.5em;
+        vertical-align: super;
+    }
+
+  }
+}
+

@@ -1,0 +1,19 @@
+.header {
+
+}
+.logo {
+  margin:-100px 0 0 -84px;
+  @include position(absolute, 50% 0 0 50%);
+  a {
+    font-size: 4em;
+    text-decoration: none;
+    &:hover {
+      color: black;
+      text-decoration: none;
+    }
+    &:visited {
+      color: black;
+      text-decoration: none;
+    }
+  }
+}

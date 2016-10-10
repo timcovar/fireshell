@@ -1,10 +1,9 @@
-# FireShell
-# http://getfireshell.com
-# @author Todd Motto
+# IG-MEAN
+# https://github.com/timcovar/ig-mean-1.5
+# @author Timothy Covarrubias
 
 node_modules
 .DS_Store
 .tmp
 .sass-cache
-style.min.css
-scripts.min.js
+dist
