@@ -1,5 +1,5 @@
 # IG-MEAN
-# https://github.com/timcovar/ig-mean-1.5
+# https://github.com/timcovar/ig-mean-1.x
 # @author Timothy Covarrubias
 
 node_modules
@@ -8,3 +8,4 @@ node_modules
 .tmp
 .sass-cache
 dist
+templates.js

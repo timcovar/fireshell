@@ -1,0 +1,18 @@
+ul.photos {
+    list-style-type: none ;
+    padding: 0px 0px 0px 0px ;
+    width: 1000px ;
+}
+
+li.photo {
+    border-radius: 4px 4px 4px 4px ;
+    float: left ;
+    margin: 0px 15px 15px 0px ;
+    padding: 5px 5px 5px 5px ;
+}
+
+li.photo img {
+    border: 1px solid #EEEEEE ;
+    border-radius: 3px 3px 3px 3px ;
+    display: block ;
+}
