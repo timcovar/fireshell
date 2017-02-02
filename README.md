@@ -4,12 +4,19 @@ Instagram clone built using the MEAN stack
 
 ## TODO
 1) MONGODB back-end (services, data model)
+
 2) User media upload
+
 3) Image modal (comments, actions)
+
 4) User Registration/Authentication
+
 5) Image infinite scroll
+
 6) Search
+
 7) User profile header
+
 8) Responsive design
 
 ## License
